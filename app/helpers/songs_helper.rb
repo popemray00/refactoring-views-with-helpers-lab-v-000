@@ -7,6 +7,6 @@ module SongsHelper
     else
       link_to artist.name, artist_path(artist)
     end
-    
+
   end
 end
